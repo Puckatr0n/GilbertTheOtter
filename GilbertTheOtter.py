@@ -24,6 +24,7 @@ choice = 0
 #        print("placeholder text 4")
 #    else:
 #        print("\nPlease select from either choice 1, 2, 3 or 4")
+# placeholder comment
 
 #Forest walk
 def forest_walk():
