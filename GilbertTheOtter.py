@@ -8,11 +8,12 @@ has_power = False
 
 fav_food = "fish"
 fav_animal = "otter"
-fav_colour = "green"
+fav_colour = "blue"
 
 choice = 0
 
-### Choices template ###
+### Choices template ####
+###blah blah
 #choice = input()
 #    if choice == "1":
 #        print("placeholder text 1")
