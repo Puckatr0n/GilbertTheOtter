@@ -8,7 +8,7 @@ has_power = False
 
 fav_food = "fish"
 fav_animal = "otter"
-fav_colour = "blue"
+fav_colour = "ble"
 
 choice = 0
 
